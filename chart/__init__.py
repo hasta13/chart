@@ -12,6 +12,9 @@
 # 7. Enter username and password for PyPI. Done!
 # NOTE: these instructions came from here:
 # https://blog.jetbrains.com/pycharm/2017/05/how-to-publish-your-package-on-pypi/
+#
+# To install the package. Do this from the terminal:
+# python3 -m pip install "hallred-chart"
 
 def test():
     print('this is a placeholder')
