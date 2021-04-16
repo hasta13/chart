@@ -15,7 +15,7 @@ README = (HERE / "README.md").read_text()
 #   Z is PATCH
 setup(
     name="hallred-chart",
-    version="0.0.1",
+    version="0.0.2",
     description="Data analytics and charting for Verizon System Performance Engineers",
     long_description=README,
     long_description_content_type="text/markdown",

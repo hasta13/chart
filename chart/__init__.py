@@ -2,7 +2,7 @@
 # for system performance engineers
 #
 # To update the package on PyPI:
-# 1. Tools > Run Setup.py task
+# 1. Update version number in setup.py then go to Tools > Run Setup.py task
 # 2. Type sdist. Enter.
 # 3. Hit OK (no command-line options)
 # 4. Make sure Twine is installed
